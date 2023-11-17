@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeanTariroGondo
 - 👀 I’m interested in Learning and Collaboration
-- 🌱 I’m currently learning Data Science and Fullstack Software Development
-- 💞️ I’m looking to collaborate on C#, Python, Databases, Microsoft PowerTools, PowerBI, Tableau, Data Science
+- 🌱 I’m currently learning Data Analysis and Fullstack Software Development
+- 💞️ I’m looking to collaborate on C#, Python, Databases, SQL Server Data Tools (ELT) SSAS, SSRS, SSIS, PowerBI, Tableau
 - 📫 How to reach me sean.gondo@gmail.com
 
 <!---
